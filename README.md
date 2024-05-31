@@ -1,2 +1,3 @@
 # Adult_Census_Income_Prediction
-The Adult Census Income project aims to predict whether an individual’s annual income exceeds $50,000 based on demographic and employment data. This project uses the UCI Adult dataset, also known as the "Census Income" dataset, which includes information such as age, education, occupation, and more. 
+The Adult Census Income project aims to predict whether an individual’s annual income exceeds $50,000 based on demographic and employment data. This project uses the UCI Adult dataset, also known as the "Census Income" dataset, which includes information such as age, education, occupation, and more. The project is designed to demonstrate various machine learning techniques and to serve as a benchmark for binary classification problems.
+The above introduction had an aim to increase awareness about how the income factor actually has an impact not only on the personal lives of people but also an impact on the nation and its betterment.
